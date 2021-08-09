@@ -1,8 +1,8 @@
-// let navigation = document.getElementById('navi');
-// let burgerbar = document.getElementById('bar');
-// burgerbar.addEventListener('click', function(){
-//     navigation.classList.toggle('active');
-// });
+let navigation = document.getElementById('navi');
+let burgerbar = document.getElementById('bar');
+burgerbar.addEventListener('click', function(){
+    navigation.classList.toggle('active');
+});
 
 
 // ajax
